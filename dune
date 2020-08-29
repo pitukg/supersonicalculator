@@ -1,0 +1,5 @@
+(executable
+ (name supersonicalculator)
+ (modules_without_implementation parsing_table_intf)
+ (libraries cmdliner))
+

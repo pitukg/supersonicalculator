@@ -1,0 +1,9 @@
+# Dune build files
+_build
+
+# Merlin file
+.merlin
+
+# Vim files
+*~
+
